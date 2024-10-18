@@ -1,6 +1,8 @@
 # todo-list
+![1](https://github.com/user-attachments/assets/795de0a7-c7ed-4b27-92f0-ce36bf883fad)
 
 - [Demo Project](https://farnazdarvish.github.io/todo-list/)
+
 - Coded By Farnaz Darvish
 
 - Created - 2024-10-18
